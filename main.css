@@ -84,6 +84,11 @@ main {
   .illustration {
     height: 120px;
   }
+  .illustration-woman {
+    transform: translateX(-50%);
+    height: 150%!important;
+    top: -85%;
+  }
 }
 
 @media only screen and (min-width: 768px) {
